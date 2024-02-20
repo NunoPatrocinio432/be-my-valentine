@@ -70,6 +70,20 @@ body{
   outline: 0;
 }
 
+.no {
+  float:right;
+}
+
+.no-after {
+  display: block !important;
+  position: absolute !important;
+}
+
+.img-gif{
+  width: 495px !important;
+  height: 500px !important;
+}
+
 @media (min-width: 768px) {
   .button-romantic {
     padding: 0 40px;
